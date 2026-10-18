@@ -1,0 +1,5 @@
+# Herramientas locales y archivos temporales
+.claude/
+*.py
+.DS_Store
+Thumbs.db
