@@ -268,7 +268,7 @@ a[data-wa]{cursor:pointer}
 /* Portada: foto vertical recortada a lo ancho, centrada en bolsas y pallets */
 .hero__img{object-fit:cover;object-position:center 58%}
 @media (max-width:860px){
-  .hero__img{object-position:center 72%}
+  .hero__img{object-position:28% 72%}
 }
 
 /* ---- Detalles plegables (marcas y usos) ---- */
