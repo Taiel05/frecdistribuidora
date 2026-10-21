@@ -320,3 +320,7 @@ a[data-wa]{cursor:pointer}
 
 /* Contacto: botones de WhatsApp e Instagram */
 .contact__btns{display:flex;flex-wrap:wrap;gap:12px}
+
+/* Cabecera: Instagram + WhatsApp arriba a la derecha (en celular se ocultan; queda el botón flotante) */
+.header__btns{grid-column:3;justify-self:end;display:flex;align-items:center;gap:10px}
+@media (max-width:640px){.header__btns{display:none}}
