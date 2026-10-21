@@ -1,7 +1,7 @@
 // Configuración editable de la web.
 
 // WhatsApp de FREC (código de país + 9 + código de área + número, sin signos).
-window.WA_NUMBER = "5491133311357";
+window.WA_NUMBER = "5491173692656";
 
 // Enlace de reseñas de Google. Pegalo acá cuando tengas la ficha verificada
 // (Google Business > "Pedir reseñas" > copiar enlace). Si está vacío, el botón se oculta.

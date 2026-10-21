@@ -317,3 +317,6 @@ a[data-wa]{cursor:pointer}
 .contact{align-items:start}
 .contact .contact__box{margin-top:28px;text-align:left}
 .contact .contact__num{margin-bottom:18px}
+
+/* Contacto: botones de WhatsApp e Instagram */
+.contact__btns{display:flex;flex-wrap:wrap;gap:12px}
